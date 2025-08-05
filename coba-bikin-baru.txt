@@ -2,3 +2,4 @@ belajar pakai github
       - Konsisten memakai github dalam membuat project
       - Membuat platform untuk SMK
       - Membuat artikel page
+      - membuat gallery page
